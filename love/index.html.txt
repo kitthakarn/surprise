@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Surprise ❤️</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>💌 A Special Message for You 💌</h1>
+    <button onclick="showLetter()">Click to Open</button>
+
+    <div id="letter">
+        <h2>My Love,</h2>
+        <p>You are the most amazing person in my life. Every moment with you is magical. ❤️</p>
+        <p>Forever yours,</p>
+        <p><strong>Your Love</strong></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
